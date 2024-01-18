@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "65a8de2b11e6a30a240394a2"
+  },
+  "name": "Anuska Naskar",
+  "address": "Dumdum ghughu danga",
+  "email": "anuska123@hotmail.com",
+  "phoneNumber": "+98910682129",
+  "password": "$2b$15$O6AvTpO3j1lk5s4NM9ytpu3EB/XUjutVQAQiZRV/3hrkrspDbm6Dm",
+  "patientPhoto": "https://dp.com",
+  "psychiatrist": {
+    "$oid": "65a83e27cd73e03a8047069d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a8e4fd0fb419e97b2c15b4"
+  },
+  "name": "Asha Naskar",
+  "address": "D.n chaterjee road,aagarpara",
+  "email": "asha123@hotmail.com",
+  "phoneNumber": "+917980380007",
+  "password": "$2b$15$VeQ4p2a1PCVbBaJPoUbiL.xpbVhaPlv5yPWG1hUiEkHy4Wg8Qayi.",
+  "patientPhoto": "https://dp.com",
+  "psychiatrist": {
+    "$oid": "65a8b1f232d86c45053e26f8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a8e5510fb419e97b2c15b8"
+  },
+  "name": "Abhijit Roy",
+  "address": "D.n chaterjee road,Dharmatala",
+  "email": "abhi123@hotmail.com",
+  "phoneNumber": "+918100445007",
+  "password": "$2b$15$Oa/N0P5uuZ/ueTmKN6Nr3utoN9H.YbDSXm3ehWyRzRqYpo9B0GvH.",
+  "patientPhoto": "https://dp.com",
+  "psychiatrist": {
+    "$oid": "65a8b21f32d86c45053e26fb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a8e5b60fb419e97b2c15bc"
+  },
+  "name": "Anu Roy",
+  "address": "Dharmatala",
+  "email": "anu123@hotmail.com",
+  "phoneNumber": "+918910648323",
+  "password": "$2b$15$5MySVmFMz6taRoin66LJzOiY2FmyJENIJu/uQmDC2hkmoTlwoaCaC",
+  "patientPhoto": "https://dp.com",
+  "psychiatrist": {
+    "$oid": "65a8b24932d86c45053e26fe"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a90b05fd8eb21f71944a09"
+  },
+  "name": "Kumar sanu",
+  "address": "Dumdum,Kolkata",
+  "email": "kumarsanu123@hotmail.com",
+  "phoneNumber": "+918100445007",
+  "password": "$2b$15$XhHggBflpaHZkzFgdDbTP.t2b7wrpcLk/xGOEeTIVxum/fNVh4TWu",
+  "patientPhoto": "https://dp.com",
+  "psychiatrist": {
+    "$oid": "65a8b21f32d86c45053e26fb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a910d5fd8eb21f71944a5e"
+  },
+  "name": "Kishore Kumar",
+  "address": "Jorashako thkurbari",
+  "email": "kishorekumar123@hotmail.com",
+  "phoneNumber": "+916290582478",
+  "password": "$2b$15$OwDe5YhAmEO6z6W6yoMvHOk/qDS44qW7nMaJW0KskkOxBThLCeFpG",
+  "patientPhoto": "https://dp.com/images",
+  "psychiatrist": {
+    "$oid": "65a906f1b6090fe1f826b0d1"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a91151fd8eb21f71944a62"
+  },
+  "name": "Shreya kalra",
+  "address": "Vatican city,Bombay",
+  "email": "shreyaKalra123@hotmail.com",
+  "phoneNumber": "+916235896574",
+  "password": "$2b$15$bt5Yb56teckfQC7Cc6ls5e17xEgBGDoifFtN497LhuPWV8yI/37Di",
+  "patientPhoto": "https://dp.com/images/sherya",
+  "psychiatrist": {
+    "$oid": "65a90c26fd8eb21f71944a13"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a911a5fd8eb21f71944a66"
+  },
+  "name": "Rishab jaiswal",
+  "address": "Vatican city,Bombay",
+  "email": "rishav123@hotmail.com",
+  "phoneNumber": "+918965745889",
+  "password": "$2b$15$SjzuDwHAxe7BGYkp7y8us.HYqN.OGvpCMFCQw8Z6.dDHZEGBDoGOi",
+  "patientPhoto": "https://dp.com/images/Rishab",
+  "psychiatrist": {
+    "$oid": "65a90c5dfd8eb21f71944a16"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a914edfd8eb21f71944a6a"
+  },
+  "name": "Anshika diyali",
+  "address": "Kathmandu,Nepal",
+  "email": "anshika123@hotmail.com",
+  "phoneNumber": "+918569896574",
+  "password": "$2b$15$Ul4qUE.Ayhu/64ofZlML1.w.GNcaqqHDbptdzb1dMfT4en7cKNiRy",
+  "patientPhoto": "https://dp.com/images/anshika",
+  "psychiatrist": {
+    "$oid": "65a90cddfd8eb21f71944a26"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a91581fd8eb21f71944a6e"
+  },
+  "name": "Simran Russel",
+  "address": "West indies",
+  "email": "simran@gmail.com",
+  "phoneNumber": "+916523563274",
+  "password": "$2b$15$GmanFJpatb70fD4v2c9A.uaxYNuTxmOkn1cPD.e83Xlj7wPOSv7NC",
+  "patientPhoto": "https://dp.com/images/simran",
+  "psychiatrist": {
+    "$oid": "65a90ceffd8eb21f71944a29"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a9165dfd8eb21f71944a72"
+  },
+  "name": "Shah Rukh khan",
+  "address": "Mannat,Bombay",
+  "email": "srk12@gmail.com",
+  "phoneNumber": "+916290589789",
+  "password": "$2b$15$bT/QMbOgSYXjf78wzPLOr.72OygcIuYOXvfY1FVRNjYMllftSbOm6",
+  "patientPhoto": "https://dp.com/images/srk",
+  "psychiatrist": {
+    "$oid": "65a90cfcfd8eb21f71944a2c"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a91704fd8eb21f71944a76"
+  },
+  "name": "Hrithik roshan",
+  "address": "Pune,Bombay",
+  "email": "hrithik12@gmail.com",
+  "phoneNumber": "+918586998562",
+  "password": "$2b$15$xTftaiyZfolnwC6wfaIl8uivrhxcWH4WG7TrCcawCd8BlPcya5nFa",
+  "patientPhoto": "https://dp.com/images/hrithik",
+  "psychiatrist": {
+    "$oid": "65a90d59fd8eb21f71944a36"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a9173efd8eb21f71944a7a"
+  },
+  "name": "Vishal Mishra",
+  "address": "Pune,Bombay",
+  "email": "vishal@gmail.com",
+  "phoneNumber": "+917890526352",
+  "password": "$2b$15$rnBxAH3z1HW42aGASGRuEegAlxIRB4UhcMKhISbpx6LYtSdLBZ2bK",
+  "patientPhoto": "https://dp.com/images/vishal",
+  "psychiatrist": {
+    "$oid": "65a90d7efd8eb21f71944a39"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a917b4fd8eb21f71944a7e"
+  },
+  "name": "Arijit Singh",
+  "address": "Mursidabad,west bengal",
+  "email": "arijit@gmail.com",
+  "phoneNumber": "+917458896585",
+  "password": "$2b$15$GysEjpsyLsQFbYLEP.ioeOusHriPvZ8BXdKmQ8HkjqmONV2qoeQQu",
+  "patientPhoto": "https://dp.com/images/arijit",
+  "psychiatrist": {
+    "$oid": "65a90d8ffd8eb21f71944a3c"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a91910fd8eb21f71944a82"
+  },
+  "name": "Arman Malik",
+  "address": "Bombay,Maharastra",
+  "email": "arman@gmail.com",
+  "phoneNumber": "+917895859687",
+  "password": "$2b$15$.J.9MPPwG2iutBXZm9GZ/ecdWLDc5HRY4mxH9NK1aLa6j0PyzSFSG",
+  "patientPhoto": "https://dp.com/images/arman",
+  "psychiatrist": {
+    "$oid": "65a90dc7fd8eb21f71944a45"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a9344eee48617b8f91e24b"
+  },
+  "name": "Avishek bahadur",
+  "address": "Bombay,maharastra",
+  "email": "avishek@gmail.com",
+  "phoneNumber": "+917985236425",
+  "password": "$2b$15$8j9c9fATa.Tubs0WwOTamOM9n1wsnu7g81P2QV.broAiuoJj9PNuq",
+  "patientPhoto": "https://dp.com/images/arman",
+  "psychiatrist": {
+    "$oid": "65a83e27cd73e03a8047069d"
+  },
+  "__v": 0
+}]

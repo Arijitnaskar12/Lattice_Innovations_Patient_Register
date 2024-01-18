@@ -1,0 +1,71 @@
+{
+	"info": {
+		"_postman_id": "68268b2e-9c77-4528-a10a-45c3d12f9e9f",
+		"name": "Lattice_Patient",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27730277"
+	},
+	"item": [
+		{
+			"name": "http://localhost:5000/patient/registerpatient",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\":\"Arman Malik\",\r\n    \"address\":\"Bombay,Maharastra\",\r\n    \"email\":\"arman@gmail.com\",\r\n    \"phoneNumber\":\"+917895859687\",\r\n    \"password\":\"Arijit*1\",\r\n    \"patientPhoto\":\"https://dp.com/images/arman\",\r\n    \"psychiatristId\":\"65a90dc7fd8eb21f71944a45\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/patient/registerpatient",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"patient",
+						"registerpatient"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:5000/hospital/getHospitalDetails",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"hospitalID\":\"65a83acdbff43c72a5a8e2a5\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/hospital/getHospitalDetails",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"hospital",
+						"getHospitalDetails"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
